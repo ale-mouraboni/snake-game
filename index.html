@@ -1,22 +1,43 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="pt-br">
 <head>
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Snake Game</title>
-    <script defer src="assets/js/main.js"></script>
-    <link rel="stylesheet" href="assets/css/style.css">
-
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #efefef;
+            color: blue;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 100px;
+        }
+        button {
+            background-color: blue;
+            color: white;
+            height: 40px;
+            width: 80px;
+            text-transform: uppercase;
+            border: 1px solid darkblue;
+            border-radius: 30px;
+            transition: .2s;
+        }
+        button:hover {
+            cursor: pointer;
+            background-color: darkblue;
+            border: 1px solid darkblue;
+            transition: .2s;
+        }
+    </style>
 </head>
-
 <body>
-
-    <h1>Snake Game</h1>
-    <canvas id="snake" width="512" height="512"></canvas>
-
+    <h1>Clique em "Jogar" para iniciar o jogo.</h1>
+    <a href="game.html">
+        <button>
+            jogar
+        </button>
+    </a>
 </body>
-
 </html>
