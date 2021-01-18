@@ -1,4 +1,4 @@
-<h1 align="center">Jogo da Cobrinha</h1>
+<h1 align="center">Snake Game</h1>
 <p align="center">
   <img src="assets/readme/snake-game.gif">
 </p>
