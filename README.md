@@ -1,5 +1,5 @@
 <h1 align="center">Snake Game</h1>
-<p align="center">A simple page made in HTML, CSS and jQuery. Project made in the JavaScript Game Developer bootcamp on the <strong>Digital Innovation One</strong> platform.
+<p align="center">The famous snake game developed in JavaScript. Project made in the JavaScript Game Developer bootcamp on the <strong>Digital Innovation One</strong> platform.
 </br>
 <a href="https://www.digitalinnovation.one">Access Platform</a>
 </p>
